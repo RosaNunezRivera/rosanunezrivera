@@ -1,16 +1,21 @@
-### Hi there 👋
+![](./assets/#)
+<!-- Title & description -->
+## About me
 
-<!--
-**RosaNunezRivera/rosanunezrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, world. I am Rosa Nunez, an IT professional and student of Software Development in Manitoba Institute of Trades & Technologies in Winnipeg, Canada.
 
-Here are some ideas to get you started:
+My experience includes implementing software in the business and hospital sector. Would you like know more about me? Get in touch! you can reach me [romanunez7777@gmail.com](mailto:romanunez7777@gmail.com).
+##
+### My skills
+<p>
+  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=#812fff"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=#812fff")/>&nbsp;
+  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=#812fff")/>&nbsp;
+  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=#812fff")/>&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+### Contributions
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaNunezRivera&theme=dark&ring=E92FFF&fire=8131FF&currStreakLabel=2F45FF](https://github-readme-streak-stats.herokuapp.com?user=RosaMariaNunez&theme=vuet&hide_border=true)](https://git.io/streak-stats)"/>
+<!-- Footer -->
+
