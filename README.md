@@ -16,6 +16,6 @@ My experience includes implementing software in the business and hospital sector
 
 ##
 ### Contributions
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaNunezRivera&theme=dark&ring=E92FFF&fire=8131FF&currStreakLabel=2F45FF](https://github-readme-streak-stats.herokuapp.com?user=RosaMariaNunez&theme=vuet&hide_border=true)](https://git.io/streak-stats)"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaNunezRivera&theme=dark&ring=E92FFF&fire=8131FF&currStreakLabel=2F45FF](https://github-readme-streak-stats.herokuapp.com?user=RosaMariaNunez&theme=vuet&hide_border=true)](https://git.io/streak-stats)"/>
 <!-- Footer -->
 
