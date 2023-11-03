@@ -1,4 +1,4 @@
-![](./assets/#)
+![](ban4.png)
 <!-- Title & description -->
 ## About me
 
