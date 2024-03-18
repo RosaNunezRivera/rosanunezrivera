@@ -54,6 +54,12 @@ Universidad Tecnológica de Honduras, Honduras
 - Report Generation and Analysis
 - Training and User Support
 
+## Projects 
+### Product Management with Entity Framework
+- [GitHub Repository](https://github.com/RosaNunezRivera/product-management-with-entity-framework)
+- Description: This project showcases my skills in product management using Entity Framework. It 
+  includes features such as CRUD operations for managing products within a database.
+
 ##
 ### Contributions
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaNunezRivera&theme=dark&ring=E92FFF&fire=8131FF&currStreakLabel=2F45FF](https://github-readme-streak-stats.herokuapp.com?user=RosaMariaNunez&theme=vuet&hide_border=true)](https://git.io/streak-stats)"/>
