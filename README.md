@@ -42,6 +42,8 @@ Universidad Tecnológica de Honduras, Honduras
   <img src="https://img.shields.io/badge/Skill-Visual%20Studio-blue?style=for-the-badge&logo=visual-studio" alt="Visual Studio">&nbsp;
   <img src="https://img.shields.io/badge/Skill-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Skill-SQL%20Server-blue?style=for-the-badge&logo=microsoft-sql-server" alt="SQL Server">&nbsp;
+  <img src="https://img.shields.io/badge/Skill-Microsoft%20Office-blue?style=for-the-badge&logo=microsoft-office" alt="Microsoft Office">&nbsp;
+  <img src="https://img.shields.io/badge/Skill-Microsoft%20Visio-blue?style=for-the-badge&logo=microsoft-visio" alt="Microsoft Visio">&nbsp;
 </p>
 
 ### Others skills
