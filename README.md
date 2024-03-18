@@ -55,14 +55,15 @@ Universidad Tecnológica de Honduras, Honduras
 - Training and User Support
 
 ## Projects 
-### Product Management with Authentication and Authorization
-- [GitHub Repository](https://github.com/RosaNunezRivera/product-management-with-authentication-and-authorization)
-- Description: This project demonstrates my proficiency in product management along with authentication and authorization features. It includes CRUD operations for managing products while implementing secure user authentication and authorization.
 
 ### Fast Typing Game
 - [GitHub Repository](https://github.com/RosaNunezRivera/fast-typing-game)
 - Description: This project is a fast typing game developed by me. It provides an interactive environment for users to improve their typing speed and accuracy through various challenges and exercises.
-- 
+
+### Product Management with Authentication and Authorization
+- [GitHub Repository](https://github.com/RosaNunezRivera/product-management-with-authentication-and-authorization)
+- Description: This project demonstrates my proficiency in product management along with authentication and authorization features. It includes CRUD operations for managing products while implementing secure user authentication and authorization.
+
 ##
 ### Contributions
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaNunezRivera&theme=dark&ring=E92FFF&fire=8131FF&currStreakLabel=2F45FF](https://github-readme-streak-stats.herokuapp.com?user=RosaMariaNunez&theme=vuet&hide_border=true)](https://git.io/streak-stats)"/>
