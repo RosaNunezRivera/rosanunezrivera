@@ -46,7 +46,8 @@ Universidad Tecnológica de Honduras, Honduras
   <img src="https://img.shields.io/badge/Skill-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Skill-SQL%20Server-blue?style=for-the-badge&logo=microsoft-sql-server" alt="SQL Server">&nbsp;
 </p>
-### Others skills
+
+### Microsoft Office Skills
 <p>
   <img src="https://img.shields.io/badge/Skill-Microsoft%20Office-blue?style=for-the-badge&logo=microsoft-office" alt="Microsoft Office">&nbsp;
   <img src="https://img.shields.io/badge/Skill-Microsoft%20Visio-blue?style=for-the-badge&logo=microsoft-visio" alt="Microsoft Visio">&nbsp;
@@ -57,8 +58,8 @@ Universidad Tecnológica de Honduras, Honduras
 - System Administration
 - Process Improvement
 - Team working and Collaboration
-- Report Generation and Analysis
 - Training and User Support
+- Report Generation and Analysis
 
 ## Projects 
 
