@@ -12,15 +12,18 @@ My goal is to use my experience in Software development and Enterprise Resource 
 ### Hospital Del Valle, San Pedro Sula, Honduras
 **Administrative Director**  
 Jul 2005 - Jul 2023  
-- Led daily operations and fostered teamwork across multiple departments
-- Oversaw the implementation of 80% of the hospital's Enterprise Resource Planning system
-- Ensured alignment with annual operational plans to meet departmental goals
+- Led daily operations across multiple departments including admission, insurance, billing, cash, security, and maintenance, ensuring alignment with annual operational plans and goal achievement.
+- Successfully implemented 80% of modules of the Enterprise Resource Planning system, automating digital medical register, operational, and administrative processes within established deadlines.
+- Developed user guides, manuals, policies, and procedures for IT and administrative processes, enhancing system utilization and ensuring compliance with organizational standards.
+- Led hospital accreditation processes, aligning operations with accreditation standards through process improvements, policy development, and procedural enhancements, resulting in the attainment of established process metrics.
+
 
 **System Administrator**  
 Mar 1998 - Jun 2005  
-- Provided training and support on the administrative system to staff
-- Managed hospital systems and conducted monthly closings
-- Prepared reports on hospital operations for management decision-making purposes
+- Provided technical support to users for hardware and administrative software within the hospital.
+- Established policies and guidelines for software processes, serving as training materials for new employees.
+- Conducted training sessions for hospital staff on software systems and processes.
+- Analyzed workflow design to identify areas for improvement, streamlining processes, and documenting standardized processes in comprehensive procedure manuals.
 
 ## Education
 
