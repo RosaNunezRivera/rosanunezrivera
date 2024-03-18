@@ -55,10 +55,9 @@ Universidad Tecnológica de Honduras, Honduras
 - Training and User Support
 
 ## Projects 
-### Product Management with Entity Framework
-- [GitHub Repository](https://github.com/RosaNunezRivera/product-management-with-entity-framework)
-- Description: This project showcases my skills in product management using Entity Framework. It 
-  includes features such as CRUD operations for managing products within a database.
+### Product Management with Authentication and Authorization
+- [GitHub Repository](https://github.com/RosaNunezRivera/product-management-with-authentication-and-authorization)
+- Description: This project demonstrates my proficiency in product management along with authentication and authorization features. It includes CRUD operations for managing products while implementing secure user authentication and authorization.
 
 ##
 ### Contributions
