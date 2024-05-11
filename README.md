@@ -10,7 +10,7 @@ My goal is to use my experience in Software development and Enterprise Resource 
 
 ## Experience
 ### Hospital Del Valle, San Pedro Sula, Honduras
-**Administrative Director**  
+**Administrative Chief**  
 Jul 2005 - Jul 2023  
 - Led daily operations across multiple departments including admission, insurance, billing, cash, security, and maintenance, ensuring alignment with annual operational plans and goal achievement.
 - Successfully implemented 80% of modules of the Enterprise Resource Planning system, automating digital medical register, operational, and administrative processes within established deadlines.
